@@ -1,0 +1,65 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'RTC:time_1MHz|stime_r'
+Slack : -109.162
+TNS   : -2942.399
+
+Type  : Setup 'clk'
+Slack : -11.068
+TNS   : -1718.257
+
+Type  : Setup 'SCL'
+Slack : -4.508
+TNS   : -119.016
+
+Type  : Hold 'clk'
+Slack : -1.649
+TNS   : -1.649
+
+Type  : Hold 'RTC:time_1MHz|stime_r'
+Slack : -0.198
+TNS   : -1.782
+
+Type  : Hold 'SCL'
+Slack : 1.038
+TNS   : 0.000
+
+Type  : Recovery 'clk'
+Slack : -4.553
+TNS   : -872.053
+
+Type  : Recovery 'SCL'
+Slack : -3.626
+TNS   : -39.880
+
+Type  : Recovery 'RTC:time_1MHz|stime_r'
+Slack : -0.533
+TNS   : -14.391
+
+Type  : Removal 'SCL'
+Slack : -0.026
+TNS   : -0.026
+
+Type  : Removal 'RTC:time_1MHz|stime_r'
+Slack : 1.481
+TNS   : 0.000
+
+Type  : Removal 'clk'
+Slack : 4.846
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'clk'
+Slack : -1.583
+TNS   : -605.227
+
+Type  : Minimum Pulse Width 'SCL'
+Slack : -1.583
+TNS   : -99.115
+
+Type  : Minimum Pulse Width 'RTC:time_1MHz|stime_r'
+Slack : -1.318
+TNS   : -71.172
+
+------------------------------------------------------------

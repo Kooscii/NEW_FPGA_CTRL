@@ -1,0 +1,49 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do CtrlBox_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/shiha/Desktop/New\ FPGA\ ctrl {C:/Users/shiha/Desktop/New FPGA ctrl/switch_jitter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module switch_jitter
+# 
+# Top level modules:
+# 	switch_jitter
+# vlog -vlog01compat -work work +incdir+C:/Users/shiha/Desktop/New\ FPGA\ ctrl {C:/Users/shiha/Desktop/New FPGA ctrl/i2c_data.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module i2c_data
+# 
+# Top level modules:
+# 	i2c_data
+# vlog -vlog01compat -work work +incdir+C:/Users/shiha/Desktop/New\ FPGA\ ctrl {C:/Users/shiha/Desktop/New FPGA ctrl/emc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module emc
+# 
+# Top level modules:
+# 	emc
+# vlog -vlog01compat -work work +incdir+C:/Users/shiha/Desktop/New\ FPGA\ ctrl {C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CtrlBox
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(39): (vlog-2730) Undefined variable: 'PWM_channel'.
+# 
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(40): (vlog-2730) Undefined variable: 'Pulse_channel'.
+# 
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(43): 'Pulse_channel' already declared in this scope.
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(44): 'PWM_channel' already declared in this scope.
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(81): (vlog-2730) Undefined variable: 'enable_charging'.
+# 
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(91): 'enable_charging' already declared in this scope (CtrlBox).
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(16): Identifier must be declared with a port mode: PWM.
+# ** Error: C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v(19): Identifier must be declared with a port mode: Pulse.
+# ** Error: C:/altera/13.0sp1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./CtrlBox_run_msim_rtl_verilog.do line 11
+# C:/altera/13.0sp1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+C:/Users/shiha/Desktop/New\ FPGA\ ctrl {C:/Users/shiha/Desktop/New FPGA ctrl/CtrlBox.v}"

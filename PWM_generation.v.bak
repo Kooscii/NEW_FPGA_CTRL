@@ -1,0 +1,9 @@
+module pwm_generation(
+	clk,
+	rst,
+	
+);
+
+
+
+endmodule

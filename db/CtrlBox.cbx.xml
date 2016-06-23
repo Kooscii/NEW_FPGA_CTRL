@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="CtrlBox">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CtrlBox|trigger_singal_generator:U5|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_h8m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CtrlBox|trigger_singal_generator:U5|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_i8m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\shiha\Desktop\New FPGA ctrl\simulation\modelsim
+vemc
+!i10b 1
+!s100 C0[?;6[KV_Igeah=:_<nC0
+IYVIW;JgjHA<@5bR=aCg<O3
+V^kg:_U34YIfjbQf`ibo:g1
+Z1 dC:\Users\shiha\Desktop\New FPGA ctrl\simulation\modelsim
+w1465182884
+8C:/Users/shiha/Desktop/New FPGA ctrl/emc.v
+FC:/Users/shiha/Desktop/New FPGA ctrl/emc.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1466661914.931000
+!s107 C:/Users/shiha/Desktop/New FPGA ctrl/emc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiha/Desktop/New FPGA ctrl|C:/Users/shiha/Desktop/New FPGA ctrl/emc.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+C:/Users/shiha/Desktop/New FPGA ctrl} -O0
+vi2c_data
+IN=5La1lj9EzL4_93FkK<i1
+V_dCLa>_HRLckJ57[?DRfG3
+R1
+w1466066230
+8C:/Users/shiha/Desktop/New FPGA ctrl/i2c_data.v
+FC:/Users/shiha/Desktop/New FPGA ctrl/i2c_data.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 zH6NScaDmi2omH4KP55fL3
+!s85 0
+!s108 1466661914.859000
+!s107 C:/Users/shiha/Desktop/New FPGA ctrl/i2c_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiha/Desktop/New FPGA ctrl|C:/Users/shiha/Desktop/New FPGA ctrl/i2c_data.v|
+!s101 -O0
+vswitch_jitter
+I1nJR=HS1nc3blGWdD01i71
+V1MRYGkJB7ELl53h:9n=8V1
+R1
+w1466059405
+8C:/Users/shiha/Desktop/New FPGA ctrl/switch_jitter.v
+FC:/Users/shiha/Desktop/New FPGA ctrl/switch_jitter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 XNmzEFe<P0e4b<JGL3<S?2
+!s85 0
+!s108 1466661914.750000
+!s107 C:/Users/shiha/Desktop/New FPGA ctrl/switch_jitter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiha/Desktop/New FPGA ctrl|C:/Users/shiha/Desktop/New FPGA ctrl/switch_jitter.v|
+!s101 -O0

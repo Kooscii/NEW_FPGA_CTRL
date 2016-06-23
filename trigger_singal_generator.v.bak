@@ -1,0 +1,5 @@
+module trigger_singal_generator(
+	clk,
+	rst,
+	
+);

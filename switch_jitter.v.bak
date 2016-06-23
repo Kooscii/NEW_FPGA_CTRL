@@ -1,0 +1,5 @@
+module switch_jitter(
+	stime,	//1MHz
+	rst,	//
+	
+);

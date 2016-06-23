@@ -1,0 +1,7 @@
+module RTC(
+	clk,
+	rst,
+	stime	//1Mhz
+);
+
+endmodule
